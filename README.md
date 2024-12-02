@@ -13,3 +13,15 @@ The puzzle requires pairing and comparing numbers from the two lists to calculat
 _Comments_
 
 Wow. And I mean wow. This was so much fun. My first thought was obviously how I would be able to parse the input information given to a readable file, and the fs library helped LOADS. Quite pleased with how the code came out in the end!
+
+**Day 2:**
+
+_Challenge_
+
+The Historians begin searching the Red-Nosed Reindeer nuclear fusion/fission plant for the Chief Historian, but while no trace of the historian is found, engineers approach you with unusual data from the reactor. Each report contains a list of levels, which are deemed safe if they are either entirely increasing or decreasing, with adjacent levels differing by 1 to 3. Initially, only 2 reports in the example are safe. However, the engineers reveal a Problem Dampener module allows the system to ignore a single bad level in an otherwise safe report, increasing the count of safe reports to 4 in the example. This adjustment changes the task to determine how many reports are safe with the Dampener applied.
+
+_Comments_
+
+Array methods are the best. I have little else to say regarding this matter...
+
+But in all seriousness, once again loads of fun. Whilst not the cleanest code, I'm so glad that it works; that's another two stars on my belt!
