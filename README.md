@@ -25,3 +25,13 @@ _Comments_
 Array methods are the best. I have little else to say regarding this matter...
 
 But in all seriousness, once again loads of fun. Whilst not the cleanest code, I'm so glad that it works; that's another two stars on my belt!
+
+**Day 3:**
+
+_Challenge_
+
+Analyse corrupted programme memory to extract and process valid mul(X, Y) instructions, which multiply two numbers, ignoring invalid characters and corrupted sequences. Initially, compute the sum of all valid multiplication results. Then, incorporate conditional statements: do() enables and don't() disables future mul instructions, with only the most recent condition affecting subsequent operations. Finally, compute the sum of results from enabled multiplications based on these conditions.
+
+_Comments_
+
+I have to admit, this one got me good. Part 1 was relatively painless, but moving onto part 2 felt like swimming through custard. As I had started I pushed through to get my two stars, but following days I may tap out early if I have no hide nor hair of being able to complete the task.

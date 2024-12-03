@@ -1,6 +1,6 @@
 const { readFileSync } = require('fs');
 
-const input = readFileSync('./Day 1/numbers', 'utf-8')
+const input = readFileSync('./Day-1/numbers', 'utf-8')
   .trim()
   .split('\n')
   .map((line) => line.split('   ').map(Number));
