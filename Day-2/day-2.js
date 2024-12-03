@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 const input = fs
-  .readFileSync('./Day 2/input-data', 'utf8')
+  .readFileSync('./Day-2/input-data', 'utf8')
   .trim()
   .split(/\n/)
   .map((row) => row.split(/\s/).map(Number));
