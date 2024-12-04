@@ -1,4 +1,4 @@
-# adventofcode2024
+# Advent of code 2024
 
 Link to the public challenge: [Advent of Code](https://adventofcode.com/2024/)
 
