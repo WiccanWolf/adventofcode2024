@@ -2,7 +2,7 @@
 
 Link to the public challenge: [Advent of Code](https://adventofcode.com/2024/)
 
-**Day 1:**
+**Day 1: Historian Hysteria**
 
 _Challenge_
 
@@ -14,7 +14,7 @@ _Comments_
 
 Wow. And I mean wow. This was so much fun. My first thought was obviously how I would be able to parse the input information given to a readable file, and the fs library helped LOADS. Quite pleased with how the code came out in the end!
 
-**Day 2:**
+**Day 2: Red-Nosed Reports**
 
 _Challenge_
 
@@ -26,7 +26,7 @@ Array methods are the best. I have little else to say regarding this matter...
 
 But in all seriousness, once again loads of fun. Whilst not the cleanest code, I'm so glad that it works; that's another two stars on my belt!
 
-**Day 3:**
+**Day 3: Mull It Over**
 
 _Challenge_
 
@@ -35,3 +35,13 @@ Analyse corrupted programme memory to extract and process valid mul(X, Y) instru
 _Comments_
 
 I have to admit, this one got me good. Part 1 was relatively painless, but moving onto part 2 felt like swimming through custard. As I had started I pushed through to get my two stars, but following days I may tap out early if I have no hide nor hair of being able to complete the task.
+
+**Day 4: Ceres Search**
+
+_Challenge_
+
+In this puzzle, you need to find all occurrences of the word "XMAS" within a word search grid, where the word can appear horizontally, vertically, diagonally, in reverse, or overlapping with other words. For the second part, the task shifts to finding the pattern of two "MAS" arranged in an "X" shape within the grid, where each "MAS" can be written forwards or backwards. The challenge is to count all instances of this specific X-MAS pattern throughout the grid.
+
+_Comments_
+
+This was really fun! A bit confusing at the very beginning on how to parse the information into a grid, but I managed to sit and think for a bit of how to write a function to do it for me!
