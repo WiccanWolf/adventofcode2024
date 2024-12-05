@@ -46,11 +46,11 @@ _Comments_
 
 This was really fun! A bit confusing at the very beginning on how to parse the information into a grid, but I managed to sit and think for a bit of how to write a function to do it for me!
 
-**Day 4: Print Queue**
+**Day 5: Print Queue**
 
 _Challenge_
 
-On Day 5, the Historians search for the North Pole printing department, where an Elf operates a printer. They encounter a problem with the new sleigh launch safety manual updates, which are not printed correctly. The Elf provides the page ordering rules and page numbers for each update, but struggles to determine the correct order. To fix the issue, they identify the correct order of the updates, which are then printed in the correct order. The Elf also needs to know the middle page number of each update.
+The Historians search for the North Pole printing department, where an Elf operates a printer. They encounter a problem with the new sleigh launch safety manual updates, which are not printed correctly. The Elf provides the page ordering rules and page numbers for each update, but struggles to determine the correct order. To fix the issue, they identify the correct order of the updates, which are then printed in the correct order. The Elf also needs to know the middle page number of each update.
 
 _Comments_
 
